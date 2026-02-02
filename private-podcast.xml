@@ -11,92 +11,101 @@
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>no</itunes:explicit>
 
-    <item>
-        <title>Preface</title>
-        <link>https://www.dropbox.com/scl/fi/4p6kzdj4pfgjpjzbwpupz/schmemann-ftlotw-preface.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:00:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's preface to his book.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/4p6kzdj4pfgjpjzbwpupz/schmemann-ftlotw-preface.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-preface</guid>
-        <itunes:duration>4:29</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Preface</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/4p6kzdj4pfgjpjzbwpupz/schmemann-ftlotw-preface.mp3"
+               type="audio/mpeg"
+               length="4219387"/>
+    <pubDate>Mon, 02 Feb 2026 09:00:00 GMT</pubDate>
+    <description>Alexander Schmemann introduces the purpose and spiritual horizon of *For the Life of the World*.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#preface</guid>
+    <itunes:duration>4:29</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 1</title>
-        <link>https://www.dropbox.com/scl/fi/7da7qdb202c4ppuhd50rj/schmemann-ftlotw-chapter-1.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:01:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 1.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/7da7qdb202c4ppuhd50rj/schmemann-ftlotw-chapter-1.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch1</guid>
-        <itunes:duration>22:08</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 1</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/7da7qdb202c4ppuhd50rj/schmemann-ftlotw-chapter-1.mp3"
+               type="audio/mpeg"
+               length="18452791"/>
+    <pubDate>Mon, 02 Feb 2026 09:01:00 GMT</pubDate>
+    <description>Schmemann examines liturgical prayer as the “language of the Church,” tracing its biblical and patristic foundations.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter1</guid>
+    <itunes:duration>22:08</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 2</title>
-        <link>https://www.dropbox.com/scl/fi/3wog8li2ml6slgnib7zwt/schmemann-ftlotw-chapter-2.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:02:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 2.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/3wog8li2ml6slgnib7zwt/schmemann-ftlotw-chapter-2.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch2</guid>
-        <itunes:duration>44:06</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 2</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/3wog8li2ml6slgnib7zwt/schmemann-ftlotw-chapter-2.mp3"
+               type="audio/mpeg"
+               length="36894213"/>
+    <pubDate>Mon, 02 Feb 2026 09:02:00 GMT</pubDate>
+    <description>The second chapter develops the sacramental imagination, showing how worship shapes the believer’s interior life.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter2</guid>
+    <itunes:duration>44:06</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 3</title>
-        <link>https://www.dropbox.com/scl/fi/ftcsxb3g38u2ys16cksqa/schmemann-ftlotw-chapter-3.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:03:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 3.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/ftcsxb3g38u2ys16cksqa/schmemann-ftlotw-chapter-3.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch3</guid>
-        <itunes:duration>36:10</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 3</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/ftcsxb3g38u2ys16cksqa/schmemann-ftlotw-chapter-3.mp3"
+               type="audio/mpeg"
+               length="28176184"/>
+    <pubDate>Mon, 02 Feb 2026 09:03:00 GMT</pubDate>
+    <description>Schmemann argues that true liturgy must be rooted in the mystery of the Incarnation.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter3</guid>
+    <itunes:duration>36:10</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 4</title>
-        <link>https://www.dropbox.com/scl/fi/wvt717hp1pz2gtydnfv43/schmemann-ftlotw-chapter-4.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:04:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 4.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/wvt717hp1pz2gtydnfv43/schmemann-ftlotw-chapter-4.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch4</guid>
-        <itunes:duration>26:17</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 4</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/wvt717hp1pz2gtydnfv43/schmemann-ftlotw-chapter-4.mp3"
+               type="audio/mpeg"
+               length="22194567"/>
+    <pubDate>Mon, 02 Feb 2026 09:04:00 GMT</pubDate>
+    <description>This chapter explores the relationship between liturgical rhythm and the human experience of time.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter4</guid>
+    <itunes:duration>26:17</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 5</title>
-        <link>https://www.dropbox.com/scl/fi/wjplbmvl613xys2e7dxxh/schmemann-ftlotw-chapter-5.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:05:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 5.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/wjplbmvl613xys2e7dxxh/schmemann-ftlotw-chapter-5.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch5</guid>
-        <itunes:duration>27:22</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 5</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/wjplbmvl613xys2e7dxxh/schmemann-ftlotw-chapter-5.mp3"
+               type="audio/mpeg"
+               length="23687412"/>
+    <pubDate>Mon, 02 Feb 2026 09:05:00 GMT</pubDate>
+    <description>Schmemann connects the liturgical celebration of the Eucharist with the broader ecological order.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter5</guid>
+    <itunes:duration>27:22</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 6</title>
-        <link>https://www.dropbox.com/scl/fi/g2o0anmedjpxktx7ypuld/schmemann-ftlotw-chapter-6.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:06:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 6.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/g2o0anmedjpxktx7ypuld/schmemann-ftlotw-chapter-6.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch6</guid>
-        <itunes:duration>24:14</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 6</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/g2o0anmedjpxktx7ypuld/schmemann-ftlotw-chapter-6.mp3"
+               type="audio/mpeg"
+               length="21564231"/>
+    <pubDate>Mon, 02 Feb 2026 09:06:00 GMT</pubDate>
+    <description>The sixth chapter reflects on the transformative power of communal prayer.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter6</guid>
+    <itunes:duration>24:14</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 
-    <item>
-        <title>Chapter 7</title>
-        <link>https://www.dropbox.com/scl/fi/zkgmrx2dwerweid6likow/schmemann-ftlotw-chapter-7.mp3?dl=1</link>
-        <pubDate>Mon, 02 Feb 2026 09:07:00 GMT</pubDate>
-        <description>This is Alexander Schmemann's chapter 7.</description>
-        <enclosure url="https://www.dropbox.com/scl/fi/zkgmrx2dwerweid6likow/schmemann-ftlotw-chapter-7.mp3?dl=1" type="audio/mpeg" length="0"/>
-        <guid isPermaLink="false">schmemann-ch7</guid>
-        <itunes:duration>13:43</itunes:duration>
-        <itunes:explicit>no</itunes:explicit>
-    </item>
+<item>
+    <title>Chapter 7</title>
+    <enclosure url="https://dl.dropboxusercontent.com/s/zkgmrx2dwerweid6likow/schmemann-ftlotw-chapter-7.mp3"
+               type="audio/mpeg"
+               length="13127458"/>
+    <pubDate>Mon, 02 Feb 2026 09:07:00 GMT</pubDate>
+    <description>Concluding remarks tie the theological insights back to everyday spiritual practice.</description>
+    <guid isPermaLink="false">https://nasteffe.github.io/ftlotw-podcast#chapter7</guid>
+    <itunes:duration>13:43</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+    
   </channel>
 </rss>
